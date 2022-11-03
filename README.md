@@ -1,7 +1,9 @@
 # SolidWorks Projects-
 
 Projects I have done in my academics.
+
 Softwares Used: SolidWorks.
+
 Models based on Weldments, Sheetmetal, Surface, Drawing sheets.
 
 
